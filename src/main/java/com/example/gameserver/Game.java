@@ -1,4 +1,5 @@
 package com.example.gameserver;
 
-public class GameView {
+public class Game {
+
 }
